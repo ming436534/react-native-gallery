@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "react-native-transformable-image": "https://github.com/ming436534/react-native-transformable-image.git",
-    "react-native-view-pager": "https://github.com/realgeeks/react-native-view-pager.git",
+    "react-native-view-pager": "https://github.com/ming436534/react-native-view-pager.git",
     "react-native-gesture-responder": "0.1.1"
   }
 }
